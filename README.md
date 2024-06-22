@@ -24,16 +24,18 @@ The following prompts were used to create realistic portraits of each character 
 
 1. **Jean-Claude Romand**
    - Prompt:
-     
      ```
      Create a realistic portrait of Jean-Claude Romand. He should be depicted as a distinguished, middle-aged man in professional attire, reflecting his facade as a successful doctor and researcher. His expression should be serious and composed, but with subtle hints of tension or duplicity in his eyes and facial features. Include background elements that hint at his profession, such as medical books or a WHO emblem, but also incorporate shadowy or ambiguous elements to symbolize his deceitful and criminal nature. The overall style should be formal and realistic, capturing the complexity of his character.
      ```
    - Result:
-   - [IMAGE]
+<div align="center">
+  <img src="jean_claude_romand.png" alt="drawing" width="400"/>
+</div>
 
 2. **Florence Romand**
    - Create a realistic portrait of Florence Romand. She should be depicted as a warm and compassionate woman, with features that convey her trust and innocence. Her expression should be gentle and kind, possibly with a hint of melancholy or sadness to reflect the tragedy of her fate. Include background elements that hint at her domestic life, such as a family photo or a cozy home setting. The overall style should be formal and realistic, capturing the essence of her character and the poignancy of her story.
-   - Result: [IMAGE]
+   - Result:
+
 
 3. **Antoine and Caroline Romand**
    - Create a realistic portrait of Antoine and Caroline Romand. They should be depicted as young, happy children with bright, innocent expressions. Antoine, the older child, could be shown with a protective and caring demeanor towards his younger sister, Caroline. Caroline should be depicted with a joyful and carefree expression. Include background elements that hint at a happy family environment, such as toys, a park, or a home setting. The overall style should be formal and realistic, capturing the innocence and tragedy of their story.
