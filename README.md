@@ -51,28 +51,59 @@ The following prompts were used to create realistic portraits of each character 
    ```
    - Result:
 <div align="center">
-  <img src="jean_claude_romand.png" alt="drawing" width="400"/>
+  <img src="florence_romand.png" alt="drawing" width="400"/>
 </div>
 
 3. **Antoine and Caroline Romand**
-   - Create a realistic portrait of Antoine and Caroline Romand. They should be depicted as young, happy children with bright, innocent expressions. Antoine, the older child, could be shown with a protective and caring demeanor towards his younger sister, Caroline. Caroline should be depicted with a joyful and carefree expression. Include background elements that hint at a happy family environment, such as toys, a park, or a home setting. The overall style should be formal and realistic, capturing the innocence and tragedy of their story.
-   - Result: [IMAGE]
+   - Prompt:
+   ```
+   Create a realistic portrait of Antoine and Caroline Romand. They should be depicted as young, happy children with bright, innocent expressions. Antoine, the older child, could be shown with a protective and caring demeanor towards his younger sister, Caroline. Caroline should be depicted with a joyful and carefree expression. Include background elements that hint at a happy family environment, such as toys, a park, or a home setting. The overall style should be formal and realistic, capturing the innocence and tragedy of their story.
+   ```
+   - Result:
+<div align="center">
+  <img src="antoine_and_caroline_romand.png" alt="drawing" width="400"/>
+</div>
 
 4. **Jeanine and Aimé Romand**
-   - Create a realistic portrait of Jeanine and Aimé Romand. They should be depicted as an elderly couple with warm, kind expressions, reflecting their roles as loving and supportive parents. Jeanine could be shown with a gentle smile, perhaps wearing a simple yet elegant outfit, while Aimé might be depicted with a kind and caring demeanor, possibly with an arm around Jeanine. Include background elements that hint at their family life, such as a cozy home setting or family photographs. The overall style should be formal and realistic, capturing the essence of their characters and the poignancy of their story.
-   - Result: [IMAGE]
+   - Prompt:
+   ```
+   Create a realistic portrait of Jeanine and Aimé Romand. They should be depicted as an elderly couple with warm, kind expressions, reflecting their roles as loving and supportive parents. Jeanine could be shown with a gentle smile, perhaps wearing a simple yet elegant outfit, while Aimé might be depicted with a kind and caring demeanor, possibly with an arm around Jeanine. Include background elements that hint at their family life, such as a cozy home setting or family photographs. The overall style should be formal and realistic, capturing the essence of their characters and the poignancy of their story.
+   ```
+   - Result: 
+<div align="center">
+  <img src="jeanine_and_aimé_romand.png" alt="drawing" width="400"/>
+</div>
 
 5. **Corinne**
-   - Create a realistic portrait of Corinne. She should be depicted as an elegant and composed woman, with features that convey both affection and the weight of her involvement in the unraveling of Jean-Claude Romand’s deceit. Her expression should reflect a mix of emotions, hinting at her close connection to the Romand family and her pivotal role in the story. Include background elements that suggest her connection to both Jean-Claude and the family, such as a subtle inclusion of personal items or a setting that indicates a shared space. The overall style should be formal and realistic, capturing the complexity and depth of her character.
-   - Result: [IMAGE]
+   - Prompt:
+   ```
+   Create a realistic portrait of Corinne. She should be depicted as an elegant and composed woman, with features that convey both affection and the weight of her involvement in the unraveling of Jean-Claude Romand’s deceit. Her expression should reflect a mix of emotions, hinting at her close connection to the Romand family and her pivotal role in the story. Include background elements that suggest her connection to both Jean-Claude and the family, such as a subtle inclusion of personal items or a setting that indicates a shared space. The overall style should be formal and realistic, capturing the complexity and depth of her character.
+   ```
+   - Result:
+<div align="center">
+  <img src="corinne.png" alt="drawing" width="400"/>
+</div>
 
 6. **Luc Ladmiral**
-   - Create a realistic portrait of Luc Ladmiral. He should be depicted as an approachable and friendly individual, with features that convey thoughtfulness and reflection. His expression should show a sense of understanding and insight, hinting at his close bond with Jean-Claude Romand during their childhood. Include background elements that suggest a connection to their shared past, such as childhood memorabilia or a setting that evokes a sense of nostalgia. The overall style should be formal and realistic, capturing the essence of his character and his role in the story.
-   - Result: [IMAGE]
+   - Prompt:
+   ```
+   Create a realistic portrait of Luc Ladmiral. He should be depicted as an approachable and friendly individual, with features that convey thoughtfulness and reflection. His expression should show a sense of understanding and insight, hinting at his close bond with Jean-Claude Romand during their childhood. Include background elements that suggest a connection to their shared past, such as childhood memorabilia or a setting that evokes a sense of nostalgia. The overall style should be formal and realistic, capturing the essence of his character and his role in the story.
+   ```
+   - Result:
+<div align="center">
+  <img src="luc_ladmiral.png" alt="drawing" width="400"/>
+</div>
 
 7. **Emmanuel Carrère**
-   - Create a realistic portrait of Emmanuel Carrère. He should be depicted as a mature, intellectual figure, with features that convey thoughtfulness and introspection. Show him possibly holding a notebook or pen, to emphasize his role as a writer. His expression should reflect deep contemplation and curiosity, indicating his engagement with the story of Jean-Claude Romand. Include background elements that suggest his dual role as author and character, such as a writing desk, books, or a contemplative setting. The overall style should be formal and realistic, capturing the essence of his character and his role in the narrative.
-   - Result: [IMAGE]
+   - Prompt:
+   ```
+   Create a realistic portrait of Emmanuel Carrère. He should be depicted as a mature, intellectual figure, with features that convey thoughtfulness and introspection. Show him possibly holding a notebook or pen, to emphasize his role as a writer. His expression should reflect deep contemplation and curiosity, indicating his engagement with the story of Jean-Claude Romand. Include background elements that suggest his dual role as author and character, such as a writing desk, books, or a contemplative setting. The overall style should be formal and realistic, capturing the essence of his character and his role in the narrative.
+   ```
+   - Result:
+<div align="center">
+  <img src="emmanuel_carrère.png" alt="drawing" width="400"/>
+</div>
+  
 
 ## Character Relationships
 
