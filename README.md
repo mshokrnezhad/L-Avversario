@@ -4,7 +4,9 @@
   <img src="l-avversario.jpg" alt="drawing" width="400"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Kitchen%20Knife.png" alt="Kitchen Knife" width="15" height="15" /> “L’Avversario” (The Adversary) by Emmanuel Carrère is a non-fiction novel that explores the life and crimes of Jean-Claude Romand. The story delves into the psychological aspects of Romand’s character, his motivations, and the impact of his actions on those around him. Carrère’s narrative style blends journalism with literary storytelling, offering a profound exploration of truth, deception, and the human condition.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Kitchen%20Knife.png" alt="Kitchen Knife" width="15" height="15" /> “L’Avversario” (The Adversary) by Emmanuel Carrère is a non-fiction novel that explores the life and crimes of Jean-Claude Romand. The story delves into the psychological aspects of Romand’s character, his motivations, and the impact of his actions on those around him. Carrère’s narrative style blends journalism with literary storytelling, offering a profound exploration of truth, deception, and the human condition. 
+
+In this repository, we aim to build a comprehensive character map of the book. To further enhance the map, we will create detailed portraits of the characters to provide clear illustrations that bring the novel to life. Our goal is to enhance the reader’s experience and understanding of the relationships and dynamics within the story.
 
 # Table of Contents
 
@@ -32,7 +34,7 @@
 
 ## Character Portraits
 
-The following prompts were used to create realistic portraits of each character using Midjourney:
+The following prompts were used to create realistic portraits of each character using [Midjourney](https://huggingface.co/spaces/mukaist/Midjourney):
 
 1. **Jean-Claude Romand**
    - Prompt:
@@ -107,7 +109,7 @@ The following prompts were used to create realistic portraits of each character 
 
 ## Character Relationships
 
-The following outlines the key relationships and their nature, helping to visualize the character connections in the story:
+The following outlines the key relationships and their nature, helping to visualize the character connections in the story. This is extracted by [ChatGPT](https://chatgpt.com/).
 
 1. **Jean-Claude Romand - Florence Romand**
    - Label: Husband-Wife
@@ -144,7 +146,7 @@ The following outlines the key relationships and their nature, helping to visual
 
 ## Lucidchart Code
 
-The code that can be imported to Lucidchart to draw this relationship map is as follows:
+The code that can be imported to [Lucidchart](https://lucid.app/) to draw this relationship map is as follows:
 
 ```
 flowchart TD
@@ -161,7 +163,7 @@ flowchart TD
     JR -- "Spouses" --> AiR
 ```
 
-The result would be:
+The outcome would be:
 
 ```mermaid
 flowchart TD
@@ -191,9 +193,13 @@ flowchart TD
 
 ## Combining the Results
 
-The results combining the created chart in Lucidchart and the generated images by Midjourney, after a bit of summarization and adjustment, are as follows:
+The final character map combining the created chart in Lucidchart and the generated images by Midjourney, after a bit of summarization and adjustment, is as follows:
 <div align="center">
   <img src="character_map.svg" alt="drawing" width="800"/>
 </div>
 
-Feel free to use this character map to gain a deeper understanding of the relationships and dynamics in "L'Avversario" by Emmanuel Carrère.
+---
+
+## Thank You <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="20" height="20" />
+
+Thank you for exploring this journey with me! Feel free to use this character map to gain a deeper understanding of the relationships and dynamics in “L’Avversario” by Emmanuel Carrère. You’re welcome to fork the repo and make contributions. I will review them as soon as possible, and your contributions will be merged into the main repo.
