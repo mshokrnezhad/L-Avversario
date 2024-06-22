@@ -146,6 +146,23 @@ The following outlines the key relationships and their nature, helping to visual
 
 The code that can be imported to Lucidchart to draw this relationship map is as follows:
 
+```
+flowchart TD
+    JCR["Jean-Claude Romand"] -- "Husband-Wife" --> FR["Florence Romand"]
+    JCR -- "Father-Son" --> AR["Antoine Romand"]
+    JCR -- "Father-Daughter" --> CR["Caroline Romand"]
+    JCR -- "Son-Mother" --> JR["Jeanine Romand"]
+    JCR -- "Son-Father" --> AiR["Aimé Romand"]
+    JCR -- "Lover" --> Co["Corinne"]
+    JCR -- "Friend" --> LL["Luc Ladmiral"]
+    JCR -- "Subject-Narrator" --> EC["Emmanuel Carrère"]
+    FR -- "Mother-Son" --> AR
+    FR -- "Mother-Daughter" --> CR
+    JR -- "Spouses" --> AiR
+```
+
+The result would be:
+
 ```mermaid
 flowchart TD
 
@@ -175,6 +192,8 @@ flowchart TD
 ## Combining the Results
 
 The results combining the created chart in Lucidchart and the generated images by Midjourney, after a bit of summarization and adjustment, are as follows:
-[IMAGE]
+<div align="center">
+  <img src="character_map.svg" alt="drawing" width="800"/>
+</div>
 
 Feel free to use this character map to gain a deeper understanding of the relationships and dynamics in "L'Avversario" by Emmanuel Carrère.
