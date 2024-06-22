@@ -1,6 +1,18 @@
 # L'Avversario
 
-“L’Avversario” (The Adversary) by Emmanuel Carrère is a non-fiction novel that explores the life and crimes of Jean-Claude Romand. The story delves into the psychological aspects of Romand’s character, his motivations, and the impact of his actions on those around him. Carrère’s narrative style blends journalism with literary storytelling, offering a profound exploration of truth, deception, and the human condition.
+<div align="center">
+  <img src="l-avversario.jpg" alt="drawing" width="400"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Kitchen%20Knife.png" alt="Kitchen Knife" width="15" height="15" /> “L’Avversario” (The Adversary) by Emmanuel Carrère is a non-fiction novel that explores the life and crimes of Jean-Claude Romand. The story delves into the psychological aspects of Romand’s character, his motivations, and the impact of his actions on those around him. Carrère’s narrative style blends journalism with literary storytelling, offering a profound exploration of truth, deception, and the human condition.
+
+# Table of Contents
+
+1. [Main Characters](#main-characters)
+2. [Character Portraits](#character-portraits)
+3. [Character Relationships](#character-relationships)
+4. [Lucidchart Code](#lucidchart-code)
+5. [Combining the Results](#combining-the-results)
 
 ## Main Characters
 
@@ -33,9 +45,14 @@ The following prompts were used to create realistic portraits of each character 
 </div>
 
 2. **Florence Romand**
-   - Create a realistic portrait of Florence Romand. She should be depicted as a warm and compassionate woman, with features that convey her trust and innocence. Her expression should be gentle and kind, possibly with a hint of melancholy or sadness to reflect the tragedy of her fate. Include background elements that hint at her domestic life, such as a family photo or a cozy home setting. The overall style should be formal and realistic, capturing the essence of her character and the poignancy of her story.
+   - Prompt:
+   ```
+   Create a realistic portrait of Florence Romand. She should be depicted as a warm and compassionate woman, with features that convey her trust and innocence. Her expression should be gentle and kind, possibly with a hint of melancholy or sadness to reflect the tragedy of her fate. Include background elements that hint at her domestic life, such as a family photo or a cozy home setting. The overall style should be formal and realistic, capturing the essence of her character and the poignancy of her story.
+   ```
    - Result:
-
+<div align="center">
+  <img src="jean_claude_romand.png" alt="drawing" width="400"/>
+</div>
 
 3. **Antoine and Caroline Romand**
    - Create a realistic portrait of Antoine and Caroline Romand. They should be depicted as young, happy children with bright, innocent expressions. Antoine, the older child, could be shown with a protective and caring demeanor towards his younger sister, Caroline. Caroline should be depicted with a joyful and carefree expression. Include background elements that hint at a happy family environment, such as toys, a park, or a home setting. The overall style should be formal and realistic, capturing the innocence and tragedy of their story.
